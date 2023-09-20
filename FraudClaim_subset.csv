@@ -1,0 +1,1001 @@
+VehicleCategory,PastNumberOfClaims,VehiclePrice,AgeOfVehicle,AgeOfPolicyHolder,NumberOfCars,FraudFound_P
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,2 vehicles,0
+Sport,more than 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sedan,more than 4,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,40000 to 59000,6 years,31 to 35,1 vehicle,0
+Sport,1,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,40000 to 59000,7 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,more than 7,41 to 50,5 to 8,0
+Sedan,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,none,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,less than 20000,6 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sport,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,4 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,1,less than 20000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sport,1,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,60000 to 69000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sport,more than 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,1,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,less than 20000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,more than 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,over 65,1 vehicle,0
+Sedan,none,40000 to 59000,6 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,over 65,1 vehicle,0
+Sedan,1,more than 69000,more than 7,51 to 65,2 vehicles,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,none,less than 20000,5 years,31 to 35,1 vehicle,0
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,more than 69000,7 years,36 to 40,2 vehicles,0
+Sedan,more than 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sport,none,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,none,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,none,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sport,1,more than 69000,6 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,1,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Utility,1,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,more than 4,30000 to 39000,6 years,36 to 40,1 vehicle,0
+Sedan,none,more than 69000,more than 7,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sedan,more than 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sport,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,over 65,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,less than 20000,5 years,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,3 to 4,0
+Sedan,none,more than 69000,more than 7,36 to 40,1 vehicle,0
+Sport,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,none,more than 69000,5 years,21 to 25,1 vehicle,0
+Sport,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,1,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,none,20000 to 29000,more than 7,over 65,1 vehicle,0
+Sport,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Utility,2 to 4,more than 69000,more than 7,over 65,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sport,1,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,1,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,2 years,21 to 25,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Utility,2 to 4,more than 69000,6 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sport,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,1,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,30000 to 39000,more than 7,over 65,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,20000 to 29000,6 years,51 to 65,1 vehicle,0
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,less than 20000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,1,20000 to 29000,7 years,36 to 40,3 to 4,0
+Sport,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,41 to 50,3 to 4,0
+Sedan,none,more than 69000,7 years,31 to 35,1 vehicle,0
+Sport,1,less than 20000,7 years,over 65,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,3 years,21 to 25,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Utility,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,none,less than 20000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,2 vehicles,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,none,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,less than 20000,5 years,31 to 35,1 vehicle,0
+Sedan,1,40000 to 59000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,5 years,31 to 35,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,less than 20000,more than 7,16 to 17,1 vehicle,0
+Sport,more than 4,20000 to 29000,6 years,31 to 35,2 vehicles,0
+Sedan,2 to 4,20000 to 29000,more than 7,over 65,1 vehicle,0
+Utility,2 to 4,more than 69000,more than 7,41 to 50,2 vehicles,0
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,40000 to 59000,more than 7,41 to 50,1 vehicle,0
+Sedan,more than 4,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,1,more than 69000,4 years,26 to 30,3 to 4,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,more than 4,30000 to 39000,6 years,36 to 40,1 vehicle,0
+Sport,2 to 4,more than 69000,7 years,31 to 35,1 vehicle,0
+Sport,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,5 years,31 to 35,2 vehicles,0
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,less than 20000,6 years,41 to 50,1 vehicle,0
+Utility,none,more than 69000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,60000 to 69000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,1,more than 69000,more than 7,51 to 65,1 vehicle,0
+Sport,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,36 to 40,2 vehicles,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,none,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,less than 20000,6 years,51 to 65,1 vehicle,0
+Sedan,2 to 4,less than 20000,more than 7,41 to 50,1 vehicle,0
+Sport,1,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,1,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,36 to 40,1 vehicle,0
+Sport,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sedan,more than 4,20000 to 29000,4 years,21 to 25,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sedan,more than 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,4 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,more than 7,over 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,2 vehicles,0
+Sedan,1,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,3 years,26 to 30,1 vehicle,0
+Sedan,none,more than 69000,new,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,more than 69000,more than 7,36 to 40,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,1,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,60000 to 69000,7 years,41 to 50,1 vehicle,0
+Sport,none,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,over 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,1,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sport,none,more than 69000,5 years,26 to 30,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sport,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,1,40000 to 59000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,7 years,41 to 50,3 to 4,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,more than 69000,new,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sedan,1,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Sport,1,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,6 years,36 to 40,1 vehicle,0
+Sport,more than 4,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,less than 20000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,over 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,2 vehicles,0
+Sport,2 to 4,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,36 to 40,1 vehicle,0
+Sport,2 to 4,less than 20000,7 years,51 to 65,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,more than 4,more than 69000,5 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,less than 20000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,40000 to 59000,7 years,41 to 50,1 vehicle,0
+Sedan,more than 4,more than 69000,more than 7,41 to 50,1 vehicle,0
+Utility,1,more than 69000,6 years,31 to 35,1 vehicle,0
+Sport,none,20000 to 29000,more than 7,41 to 50,2 vehicles,0
+Sedan,2 to 4,40000 to 59000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,40000 to 59000,more than 7,51 to 65,1 vehicle,0
+Sedan,none,more than 69000,new,41 to 50,1 vehicle,0
+Sedan,none,less than 20000,7 years,41 to 50,1 vehicle,0
+Sedan,none,less than 20000,5 years,31 to 35,1 vehicle,0
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,less than 20000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,more than 69000,3 years,31 to 35,1 vehicle,0
+Sport,1,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,less than 20000,4 years,21 to 25,1 vehicle,0
+Sport,2 to 4,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Utility,more than 4,more than 69000,5 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,2 vehicles,0
+Sedan,none,30000 to 39000,2 years,26 to 30,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,more than 69000,more than 7,51 to 65,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,3 to 4,0
+Sedan,none,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Utility,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,less than 20000,3 years,26 to 30,3 to 4,0
+Sport,2 to 4,40000 to 59000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,1,more than 69000,6 years,26 to 30,1 vehicle,0
+Sedan,none,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sport,none,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,2 vehicles,0
+Sport,more than 4,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Utility,1,more than 69000,7 years,36 to 40,1 vehicle,0
+Sedan,none,less than 20000,5 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,3 to 4,0
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,60000 to 69000,more than 7,over 65,1 vehicle,0
+Sedan,1,less than 20000,6 years,31 to 35,1 vehicle,0
+Sedan,1,more than 69000,more than 7,41 to 50,1 vehicle,0
+Sport,1,20000 to 29000,4 years,21 to 25,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,more than 69000,more than 7,51 to 65,1 vehicle,0
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sport,none,more than 69000,more than 7,36 to 40,1 vehicle,0
+Sedan,2 to 4,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,5 years,26 to 30,1 vehicle,0
+Sport,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,41 to 50,1 vehicle,0
+Sedan,1,20000 to 29000,4 years,31 to 35,1 vehicle,0
+Sport,more than 4,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Utility,2 to 4,30000 to 39000,more than 7,51 to 65,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,none,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,1,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,more than 4,20000 to 29000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,7 years,31 to 35,3 to 4,0
+Sport,more than 4,30000 to 39000,more than 7,over 65,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sport,1,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,more than 69000,7 years,31 to 35,1 vehicle,0
+Sedan,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,none,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,0
+Sedan,2 to 4,more than 69000,6 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,none,20000 to 29000,4 years,26 to 30,1 vehicle,0
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,4 years,36 to 40,1 vehicle,0
+Sedan,none,less than 20000,5 years,31 to 35,1 vehicle,0
+Sedan,more than 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sedan,more than 4,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sport,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,more than 4,more than 69000,more than 7,36 to 40,3 to 4,0
+Sport,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,2 years,21 to 25,3 to 4,0
+Sedan,1,less than 20000,6 years,31 to 35,1 vehicle,0
+Sport,2 to 4,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,0
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,0
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,0
+Sedan,none,more than 69000,new,over 65,1 vehicle,0
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sport,more than 4,30000 to 39000,6 years,31 to 35,1 vehicle,0
+Sedan,1,20000 to 29000,more than 7,51 to 65,1 vehicle,0
+Sedan,more than 4,30000 to 39000,more than 7,36 to 40,1 vehicle,0
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,0
+Sport,2 to 4,more than 69000,6 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,0
+Sport,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,0
+Sedan,1,20000 to 29000,6 years,41 to 50,1 vehicle,0
+Sport,1,20000 to 29000,5 years,31 to 35,1 vehicle,0
+Sedan,1,30000 to 39000,7 years,41 to 50,1 vehicle,0
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,new,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sedan,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,51 to 65,3 to 4,1
+Sedan,2 to 4,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,31 to 35,3 to 4,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,60000 to 69000,more than 7,over 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sport,2 to 4,40000 to 59000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,20000 to 29000,5 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,30000 to 39000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,over 65,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sport,2 to 4,more than 69000,6 years,36 to 40,1 vehicle,1
+Sport,1,more than 69000,5 years,26 to 30,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Utility,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,4 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Utility,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,3 to 4,1
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Utility,1,more than 69000,6 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,6 years,36 to 40,1 vehicle,1
+Utility,1,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,less than 20000,more than 7,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,3 to 4,1
+Sedan,1,30000 to 39000,6 years,31 to 35,2 vehicles,1
+Sedan,2 to 4,20000 to 29000,5 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,51 to 65,1 vehicle,1
+Sedan,1,less than 20000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,51 to 65,3 to 4,1
+Sedan,1,40000 to 59000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,60000 to 69000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,none,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,less than 20000,7 years,36 to 40,1 vehicle,1
+Sport,more than 4,more than 69000,new,16 to 17,1 vehicle,1
+Utility,1,more than 69000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,2 vehicles,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,none,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sport,none,more than 69000,3 years,21 to 25,1 vehicle,1
+Sedan,none,40000 to 59000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,40000 to 59000,6 years,51 to 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sport,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,40000 to 59000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,more than 69000,6 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,7 years,41 to 50,1 vehicle,1
+Sport,none,more than 69000,5 years,21 to 25,1 vehicle,1
+Sedan,none,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,41 to 50,1 vehicle,1
+Sport,none,more than 69000,4 years,26 to 30,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,3 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,over 65,1 vehicle,1
+Sport,more than 4,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,5 years,26 to 30,3 to 4,1
+Sedan,1,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,5 years,26 to 30,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,less than 20000,7 years,51 to 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sport,2 to 4,40000 to 59000,7 years,36 to 40,1 vehicle,1
+Sedan,more than 4,30000 to 39000,more than 7,51 to 65,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sedan,more than 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,41 to 50,2 vehicles,1
+Sport,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,5 years,26 to 30,1 vehicle,1
+Sedan,1,less than 20000,7 years,31 to 35,2 vehicles,1
+Sedan,1,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Utility,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,3 to 4,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sport,none,more than 69000,5 years,26 to 30,1 vehicle,1
+Sedan,1,40000 to 59000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,4 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,6 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,3 to 4,1
+Sport,none,more than 69000,3 years,21 to 25,1 vehicle,1
+Utility,1,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,2 vehicles,1
+Utility,none,more than 69000,7 years,31 to 35,1 vehicle,1
+Sport,more than 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,3 to 4,1
+Sedan,none,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sport,2 to 4,20000 to 29000,4 years,26 to 30,1 vehicle,1
+Sedan,2 to 4,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sport,none,more than 69000,5 years,26 to 30,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,2 vehicles,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,less than 20000,7 years,41 to 50,1 vehicle,1
+Utility,2 to 4,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,40000 to 59000,7 years,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,4 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,26 to 30,1 vehicle,1
+Sedan,more than 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,more than 4,more than 69000,6 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,26 to 30,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,41 to 50,1 vehicle,1
+Sport,1,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sport,1,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,41 to 50,2 vehicles,1
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,2 vehicles,1
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sport,none,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,26 to 30,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,6 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,1,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,30000 to 39000,more than 7,51 to 65,3 to 4,1
+Utility,more than 4,more than 69000,7 years,41 to 50,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,4 years,36 to 40,1 vehicle,1
+Sport,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,less than 20000,5 years,26 to 30,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Utility,none,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sport,2 to 4,more than 69000,7 years,36 to 40,1 vehicle,1
+Utility,more than 4,40000 to 59000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sport,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,41 to 50,1 vehicle,1
+Sedan,more than 4,20000 to 29000,6 years,41 to 50,1 vehicle,1
+Utility,none,more than 69000,5 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,5 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,40000 to 59000,7 years,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,new,16 to 17,1 vehicle,1
+Sport,none,more than 69000,7 years,31 to 35,2 vehicles,1
+Sport,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,1,more than 69000,5 years,31 to 35,1 vehicle,1
+Sedan,1,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,2 vehicles,1
+Sedan,more than 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,20000 to 29000,6 years,26 to 30,1 vehicle,1
+Sedan,more than 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,40000 to 59000,6 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,more than 7,over 65,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,6 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,2 to 4,more than 69000,new,16 to 17,1 vehicle,1
+Sport,more than 4,30000 to 39000,more than 7,over 65,1 vehicle,1
+Sedan,1,less than 20000,7 years,36 to 40,3 to 4,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sport,more than 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,5 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,7 years,36 to 40,1 vehicle,1
+Utility,more than 4,more than 69000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,less than 20000,more than 7,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,7 years,over 65,3 to 4,1
+Sedan,more than 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,6 years,36 to 40,1 vehicle,1
+Sport,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,41 to 50,1 vehicle,1
+Utility,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,4 years,21 to 25,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,3 to 4,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sport,2 to 4,20000 to 29000,6 years,41 to 50,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Utility,none,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,40000 to 59000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,26 to 30,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,less than 20000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,5 to 8,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,more than 7,41 to 50,3 to 4,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Utility,1,more than 69000,new,16 to 17,2 vehicles,1
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,5 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,1,more than 69000,5 years,36 to 40,1 vehicle,1
+Sport,none,more than 69000,3 years,31 to 35,1 vehicle,1
+Utility,none,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sedan,none,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,6 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,41 to 50,1 vehicle,1
+Sport,none,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,more than 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,more than 69000,4 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,none,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,40000 to 59000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,3 to 4,1
+Sedan,2 to 4,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sport,none,more than 69000,7 years,41 to 50,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,2 vehicles,1
+Sedan,none,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,60000 to 69000,6 years,36 to 40,1 vehicle,1
+Utility,2 to 4,more than 69000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,2 vehicles,1
+Utility,2 to 4,more than 69000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,over 65,1 vehicle,1
+Sedan,2 to 4,more than 69000,7 years,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Utility,none,more than 69000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,over 65,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sedan,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,41 to 50,3 to 4,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,more than 4,40000 to 59000,6 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sport,1,more than 69000,5 years,26 to 30,1 vehicle,1
+Sedan,2 to 4,more than 69000,6 years,31 to 35,2 vehicles,1
+Sedan,1,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,60000 to 69000,7 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,more than 7,51 to 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Utility,1,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,2 vehicles,1
+Utility,2 to 4,more than 69000,more than 7,51 to 65,1 vehicle,1
+Utility,1,more than 69000,6 years,31 to 35,1 vehicle,1
+Utility,none,more than 69000,7 years,51 to 65,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,more than 4,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,more than 7,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,2 vehicles,1
+Sport,none,more than 69000,5 years,21 to 25,1 vehicle,1
+Sedan,more than 4,30000 to 39000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,more than 7,36 to 40,1 vehicle,1
+Sedan,none,20000 to 29000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Utility,none,more than 69000,more than 7,over 65,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,6 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,none,less than 20000,7 years,36 to 40,1 vehicle,1
+Sedan,more than 4,30000 to 39000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,30000 to 39000,more than 7,51 to 65,2 vehicles,1
+Sedan,1,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,6 years,41 to 50,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,more than 7,51 to 65,1 vehicle,1
+Sedan,more than 4,20000 to 29000,7 years,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,less than 20000,5 years,26 to 30,1 vehicle,1
+Sport,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,1,less than 20000,5 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,6 years,31 to 35,2 vehicles,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,3 to 4,1
+Sport,none,30000 to 39000,more than 7,36 to 40,2 vehicles,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,more than 69000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,none,more than 69000,new,16 to 17,1 vehicle,1
+Sedan,1,less than 20000,5 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,4 years,31 to 35,1 vehicle,1
+Sedan,1,less than 20000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,more than 4,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sedan,more than 4,30000 to 39000,more than 7,41 to 50,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,more than 7,over 65,1 vehicle,1
+Sedan,2 to 4,less than 20000,6 years,36 to 40,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,6 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,2 vehicles,1
+Sedan,2 to 4,more than 69000,7 years,31 to 35,1 vehicle,1
+Sedan,none,30000 to 39000,6 years,31 to 35,1 vehicle,1
+Sport,none,more than 69000,7 years,36 to 40,1 vehicle,1
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,1
+Sedan,more than 4,20000 to 29000,more than 7,51 to 65,1 vehicle,1
+Sedan,2 to 4,20000 to 29000,4 years,31 to 35,2 vehicles,1
+Sedan,2 to 4,20000 to 29000,5 years,31 to 35,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,over 65,3 to 4,1
+Sedan,none,less than 20000,7 years,31 to 35,1 vehicle,1
+Sedan,none,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sport,1,20000 to 29000,7 years,36 to 40,1 vehicle,1
+Sedan,1,20000 to 29000,7 years,51 to 65,1 vehicle,1
+Sedan,none,less than 20000,more than 7,36 to 40,1 vehicle,1
